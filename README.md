@@ -3,7 +3,7 @@
 ## Description
 An alarm I made for fun that pings everyone when reminding them of the Suhur time or alarming them of the Iftar time
 
-#### +100000000 Hasanet Guaranteed �
+#### +100000000 Hasanet Guaranteed 👍
 
 ## Installation
 1. Clone the repository: 
