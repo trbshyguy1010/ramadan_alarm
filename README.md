@@ -1,4 +1,4 @@
-# Project Name
+# Ramadan Alarm
 
 ## Description
 An alarm I made for fun that pings everyone when reminding them of the Suhur time or alarming them of the Iftar time
