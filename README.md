@@ -17,7 +17,11 @@ npm install
 ```
 
 ## Usage
-1. Start the application: 
+1. Register the commands:
 ```
-node app.js
+node deploy-commands.js
+```
+2. Start the application: 
+```
+node App.js
 ```
